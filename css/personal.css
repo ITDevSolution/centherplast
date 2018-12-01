@@ -1,0 +1,25 @@
+.slider{
+    background-color: rgba(41, 23, 1, 0.75);
+}
+
+p{
+    font-size: 15px;
+}
+
+/* Carousel */
+.carousel-caption{
+    padding-top: 2rem;
+    padding-bottom: 12rem;
+}
+.carousel-item img{
+    height: 100vh;
+    background-size: cover;
+    background-size: center center;
+}
+
+hr{
+    display: block;
+    position: relative;
+    width: 50px;;
+    border-width: 3px;
+}
